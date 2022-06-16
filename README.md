@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&animation=scaleIn&fontAlign=50&color=33DAFF&text=GitHub%20&fontColor=FFFFFF&height=200&fontSize=100&stroke=33DAFF&strokeWidth=5)
-![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&fontAlign=70&fontAlignY=5&color=FFFFFF&text=By%20Chanho%20Kim%20&fontColor=33DAFF&height=200&fontSize=15)  
+![header](https://capsule-render.vercel.app/api?type=wave&animation=scaleIn&fontAlign=50&color=33DAFF&text=GitHub%20&fontColor=FFFFFF&height=200&fontSize=100&stroke=33DAFF&strokeWidth=5#gh-light-mode-only )
+![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&fontAlign=70&fontAlignY=5&color=FFFFFF&text=By%20Chanho%20Kim%20&fontColor=33DAFF&height=200&fontSize=15#gh-light-mode-only )  
 
 Hello, nice to meet you!  
 I am Chanho Kim who has a great passion for programming and development,  
@@ -12,4 +12,4 @@ Contact
 
 
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=33DAFF&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=33DAFF&height=150&section=footer#gh-light-mode-only )
