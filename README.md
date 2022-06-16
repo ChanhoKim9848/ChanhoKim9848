@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&fontAlign=50&color=FFFFFF&text=GitHub%20&fontColor=FFFFFF&height=200&fontSize=100&stroke=33DAFF&strokeWidth=5)
+![header](https://capsule-render.vercel.app/api?type=wave&animation=scaleIn&fontAlign=50&color=33DAFF&text=GitHub%20&fontColor=FFFFFF&height=200&fontSize=100&stroke=33DAFF&strokeWidth=5)
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&fontAlign=70&fontAlignY=5&color=FFFFFF&text=By%20Chanho%20Kim%20&fontColor=33DAFF&height=200&fontSize=15)  
 
 Hello, nice to meet you!  
