@@ -1,12 +1,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"(mailto:chanhokim9848@gmail.com)>   
 </p>
-##  
+<hr> 
 <p align="center">
 Hello! :wave:</br>   
 Welcome to my Github! </br>   
 I enjoy development and want to be</br>
-**Software Engineer**  
+<span class="bolded">Software Engineer</span>
 </p>
 <br>  
 <br>  
