@@ -7,7 +7,7 @@ I enjoy development and want to be a **Software Engineer**
 <br>  
 <br>  
 <br>  
-# ✂️ SKILLS ✂️
+# SKILLS ✂️
 
 ### Programming Languages 💻
 <br> 
