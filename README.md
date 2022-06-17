@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"(mailto:chanhokim9848@gmail.com)>   
 </p>
-<hr> 
+<hr color="black"> 
 <p align="center">
 Hello! :wave:</br>   
 Welcome to my Github! </br>   
