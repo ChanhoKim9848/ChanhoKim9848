@@ -5,6 +5,8 @@ Welcome to my Github!
 I enjoy development and want to be a **Software Engineer**  
 <br>  
 <br>  
+<br>  
+<br>  
 ### Programming Languages 💻
 <br> 
 <div><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -16,11 +18,10 @@ I enjoy development and want to be a **Software Engineer**
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
- 
-
-
-
-
+<br>  
+<br>  
+<br>  
+<br>  
 
 ### Platforms
 <br>  
