@@ -4,7 +4,8 @@
 <p align="center">
 Hello! :wave:</br>   
 Welcome to my Github! </br>   
-I enjoy development and want to be a **Software Engineer**  
+I enjoy development and want to be</br>
+**Software Engineer**  
 </p>
 <br>  
 <br>  
