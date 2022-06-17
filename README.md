@@ -1,4 +1,4 @@
-<p align="center">  
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chanhokim9848@gmail.com)     
 ##  
 Hello! :wave:  
@@ -41,7 +41,7 @@ I enjoy development and want to be a **Software Engineer**
 <br>  
 <br>  
 <br>  
-</p>
+
 #
 ![Chanho's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhokim9848&show_icons=true&theme=radical)
 
