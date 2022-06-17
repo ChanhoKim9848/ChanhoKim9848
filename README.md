@@ -2,9 +2,9 @@
 
 Hello! :wave:  
 Welcome to my Github!  
-I enjoy development and this is used to save my work
+I enjoy development and want to be a **software engineer**
 
-**Programming Languages**
+<font size="1">Programming Languages</font>
 
 
 
