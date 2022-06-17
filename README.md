@@ -25,7 +25,7 @@ I enjoy development and want to be a **Software Engineer**
 <br>  
 <br>  
 
-### Platforms
+### Platforms 🧰
 <br>  
 <div>
 
