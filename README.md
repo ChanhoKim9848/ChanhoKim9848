@@ -3,10 +3,7 @@ Hello! :wave:</br>
 Welcome to my Github! </br>   
 I enjoy development and want to be</br>
 <span class="bolded">Software Engineer</span>
-<br>  
-<br>  
-<br>  
-<br>  
+
 # SKILLS ✂️
 
 ### Programming Languages 💻
