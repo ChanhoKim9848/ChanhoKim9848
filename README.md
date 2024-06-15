@@ -1,8 +1,8 @@
 
 Hello! :wave:</br>   
 Welcome to my Github! </br>   
-I enjoy development and want to be a </br>
-<span class="bolded">Software Engineer and Web Developer!</span>
+I am</br>
+<span class="bolded">Full Stack Web Developer!</span>
 
 # SKILLS ✂️
 
