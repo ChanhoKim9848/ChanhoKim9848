@@ -1,8 +1,7 @@
 
 Hello! :wave:</br>   
 Welcome to my Github! </br>   
-I am</br>
-<span class="bolded">Full Stack Web Developer!</span>
+
 
 # SKILLS ✂️
 
