@@ -21,7 +21,7 @@ Welcome to my Github! </br>
 <br>  
 <br>  
 
-### Platforms 🧰
+### Libraries & Platforms 🧰
 <br>  
 <div>
 
