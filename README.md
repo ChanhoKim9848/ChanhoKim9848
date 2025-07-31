@@ -17,7 +17,7 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 <br>
-<h2>🧰 Libraries & Platforms</h2>
+🧰 Libraries & Platforms
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
