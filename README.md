@@ -5,7 +5,7 @@
 ## 🧠 SKILLS
 
 ### 💻 Programming Languages
-<div align="left">
+<div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -15,8 +15,8 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
-### 🧰 Libraries & Platforms
-<div align="left">
+<div align="center">
+<h1> 🧰 Libraries & Platforms </h1>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -27,8 +27,8 @@
 
 
 
-### 📊 GitHub Stats
 
 <p align="center">
+  <h2> 📊 GitHub Stats </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=chanhokim9848&show_icons=true&theme=radical" alt="Chanho's GitHub Stats" />
 </p>
