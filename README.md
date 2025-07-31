@@ -15,8 +15,8 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
+### 🧰 Libraries & Platforms
 <div align="center">
-<h1> 🧰 Libraries & Platforms </h1>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -24,8 +24,6 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
-
-
 
 
 <p align="center">
