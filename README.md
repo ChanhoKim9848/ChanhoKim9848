@@ -1,8 +1,8 @@
 <h1>Hello! 👋  <br>Welcome to my GitHub!</h1>
-
-
- 🧠 SKILLS
-
+<br>
+<br>
+ <h2>🧠 SKILLS</h2>
+<br>
  💻 Programming Languages
 <br>
 <div align="left">
@@ -16,10 +16,8 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
-
 <br>
-
- 🧰 Libraries & Platforms
+<h2>🧰 Libraries & Platforms</h2>
 <br>
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
