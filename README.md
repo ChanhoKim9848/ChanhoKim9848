@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! <br>Welcome to my GitHub!</h1>
 
----
+
 
 ## 🧠 SKILLS
 
@@ -25,7 +25,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
