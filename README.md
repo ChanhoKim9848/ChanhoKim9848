@@ -1,13 +1,7 @@
 <h1 align="center">👋 Hello! <br>Welcome to my GitHub!</h1>
 
-
-
-
 <br>
 <br>
-<br>
-
-
 
 <h2 align="center">🧠 SKILLS</h2>
 <br>
