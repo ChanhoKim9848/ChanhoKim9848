@@ -3,7 +3,7 @@
 <br>
  <h2>🧠 SKILLS</h2>
 <br>
- 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 <br>
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,8 +17,10 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 <br>
+<h3>
 🧰 Libraries & Platforms
-
+</h3>
+<br>
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
