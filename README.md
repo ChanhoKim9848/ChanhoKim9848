@@ -39,6 +39,6 @@
 <br>
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=chanhokim9848&show_icons=true&theme=radical" alt="Chanho's GitHub Stats" />
 </p>
