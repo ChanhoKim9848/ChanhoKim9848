@@ -18,7 +18,7 @@
 </div>
 <br>
 <h2>🧰 Libraries & Platforms</h2>
-<br>
+
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
