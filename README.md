@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/social-media-app" target="_blank">
-    <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png?raw=true" alt="Social Media App Screenshot" width="400" height="200"/>
+    <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png?raw=true" alt="Social Media App Screenshot" width="500" height="350"/>
   </a>
   <br/>
 </div>
