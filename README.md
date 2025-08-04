@@ -34,14 +34,15 @@
 <br>
 <br>
 <br>
+
+
 <h3 align="center">🚀 Personal Project</h3>
 
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/social-media-app" target="_blank">
-    <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png?raw=true" alt="Social Media App Screenshot" width="300" height="180"/>
+    <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png?raw=true" alt="Social Media App Screenshot" width="400" height="200"/>
   </a>
   <br/>
-  <sub>Click image to view repository</sub>
 </div>
 
 
