@@ -31,6 +31,16 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div>
+<br>
+<br>
+<br>
+https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png
+<h3 align="center"> 🚀 Personal Project</h3>
+<div align="center">
+![Social Media App](https://github.com/ChanhoKim9848/social-media-app)
+  <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png" alt="App Screenshot 1" width="300" height="180"/>
+  <br/>
+</div>
 
 <br>
 <br>
