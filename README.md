@@ -57,7 +57,7 @@
 ### 🪄 AR Deco  
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/ar-deco" target="_blank">
-    <img src="https://github.com/ChanhoKim9848/ar-deco/blob/main/demo.png?raw=true" alt="AR Deco Screenshot" width="500" height="350"/>
+    <img src="https://github.com/ChanhoKim9848/ARDECO-uni-project/blob/main/imgs/object-placement.png" alt="AR Deco Screenshot" width="500" height="350"/>
   </a>
 </div>
 <p align="center">
@@ -72,7 +72,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github.com/ChanhoKim9848/ARDECO-uni-project/blob/main/imgs/object-placement.png" alt="Chanho's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanhokim9848&show_icons=true&theme=radical" alt="Chanho's GitHub Stats" />
 </p>
 
 <br>
