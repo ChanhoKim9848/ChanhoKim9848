@@ -6,6 +6,12 @@
   저는 <b>풀스택 개발자</b>로 성장하기 위해 꾸준히 공부하며, <br>
   사용자에게 좋은 경험을 주는 <b>모던 웹서비스</b>를 만드는 것을 목표로 하고 있습니다. 🌱
 </p>
+<h2 align="center">📫 연락처</h2>
+
+<p align="center">
+  💌 Email: <b>chanhokim9848@gmail.com</b><br>
+  🔗 GitHub: <a href="https://github.com/ChanhoKim9848" target="_blank">github.com/ChanhoKim9848</a>
+</p>
 
 <br>
 <br>
@@ -77,9 +83,3 @@
 
 <br>
 
-<h2 align="center">📫 연락처</h2>
-
-<p align="center">
-  💌 Email: <b>your_email@example.com</b><br>
-  🔗 GitHub: <a href="https://github.com/ChanhoKim9848" target="_blank">github.com/ChanhoKim9848</a>
-</p>
