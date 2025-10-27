@@ -58,8 +58,8 @@
   실제 SNS 기능을 구현하며 풀스택 개발의 전체 흐름을 익혔습니다.
 </p>
 
----
-<h2 align="center">🪄 AR Deco   </h2>
+
+<h2 align="center">📱   AR Deco   </h2>
 
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/ar-deco" target="_blank">
