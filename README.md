@@ -72,7 +72,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhokim9848&show_icons=true&theme=radical" alt="Chanho's GitHub Stats" />
+  <img src="https://github.com/ChanhoKim9848/ARDECO-uni-project/blob/main/imgs/object-placement.png" alt="Chanho's GitHub Stats" />
 </p>
 
 <br>
