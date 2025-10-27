@@ -46,7 +46,7 @@
 
 <h2 align="center">🚀 개인 프로젝트</h2>
 
-### 🌐 Social Media App  
+<h2 align="center">🌐 Social Media App </h2>
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/social-media-app" target="_blank">
     <img src="https://github.com/ChanhoKim9848/social-media-app/blob/main/src/assets/BENCHMARKING3.png?raw=true" alt="Social Media App Screenshot" width="500" height="350"/>
@@ -59,8 +59,8 @@
 </p>
 
 ---
+<h2 align="center">🪄 AR Deco   </h2>
 
-### 🪄 AR Deco  
 <div align="center">
   <a href="https://github.com/ChanhoKim9848/ar-deco" target="_blank">
     <img src="https://github.com/ChanhoKim9848/ARDECO-uni-project/blob/main/imgs/object-placement.png" alt="AR Deco Screenshot" width="500" height="350"/>
